@@ -1,0 +1,19 @@
+{
+  "name": "vue-wheel-2",
+  "version": "0.0.1",
+  "description": "vue wheel again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-h125/vue-wheel-2.git"
+  },
+  "author": "j.h",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J-h125/vue-wheel-2/issues"
+  },
+  "homepage": "https://github.com/J-h125/vue-wheel-2#readme"
+}
